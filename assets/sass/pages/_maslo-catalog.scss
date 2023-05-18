@@ -1,0 +1,38 @@
+.search {
+    margin-top: 30px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.filter {
+    .search-btn {
+        height: 40px;
+        width: 100%;
+        margin-right: 10px;
+        padding: 0px 30px;
+    }
+
+    ul {
+        ol,
+        li {
+            margin-bottom: 15px;
+        }
+    }
+}
+
+.maslo-catalog-content {
+    padding-top: 30px;
+    padding-bottom: 40px;
+    display: grid;
+    grid-template-columns: 0.5fr 1.5fr;
+    column-gap: 90px;
+}
+
+.catalog {
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 40px;
+    row-gap: 30px;
+}
