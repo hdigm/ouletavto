@@ -1,42 +1,12 @@
-// font-family: 'Oswald', sans-serif;
-
+// font-family: 'Lato', sans-serif;
 @font-face {
-    font-family: "Oswald";
-    src : url("../../fonts/Oswald/Oswald-Light.ttf");
-    font-weight: 300;
-}
-
-// font-family: 'Inter', sans-serif;
-@font-face {
-    font-family: "Inter";
-    src : url("../../fonts/Inter/Inter-Regular.ttf");
+    font-family: "Lato";
+    src : url("../../fonts/Lato/Lato-Regular.ttf");
     font-weight: 400;
 }
 
 @font-face {
-    font-family: "Inter";
-    src : url("../../fonts/Inter/Inter-SemiBold.ttf");
-    font-weight: 600;
-}
-
-@font-face {
-    font-family: "Inter";
-    src : url("../../fonts/Inter/Inter-Bold.ttf");
-    font-weight: 700;
-}
-
-// font-family: 'Ruso One', sans-serif;
-
-@font-face {
-    font-family: "Ruso One";
-    src : url("../../fonts/RusoOne/RussoOneRegular.ttf");
-    font-weight: 400;
-}
-
-// font-family: 'SF Pro Display', sans-serif;
-
-@font-face {
-    font-family: "SF Pro Display";
-    src : url("../../fonts/SFProDisplay/SFProDisplay-Bold.ttf");
+    font-family: "Lato";
+    src : url("../../fonts/Lato/Lato-Bold.ttf");
     font-weight: 700;
 }
